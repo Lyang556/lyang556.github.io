@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我目前就读于华中农业大学，我的专业是植物病理学，但是我的主要研究方向为生物信息学。迄今为止，我已经参与发表SCI论文10余篇<a href='https://scholar.google.com/citations?user=teRf_YAAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>；曾多次获得三好研究生荣誉。我的主要兴趣点为基因组学、比较基因组学、蛋白质设计。你可以在[ORCID](https://orcid.org/0000-0002-8615-0311)上查看我曾发表的论文
+我目前就读于华中农业大学，我的专业是植物病理学，但是我的主要研究方向为生物信息学。迄今为止，我已经参与发表SCI论文10余篇。总 <a href='https://scholar.google.com/citations?user=teRf_YAAAAAJ&hl'>谷歌学术引用为<strong><span id='total_cit'>260000+</span></strong></a> (您也可以使用 google scholar badge<a href='https://scholar.google.com/citations?user=teRf_YAAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)进行查看；曾多次获得三好研究生荣誉。我的主要兴趣点为基因组学、比较基因组学、蛋白质设计。您也可以在[ORCID](https://orcid.org/0000-0002-8615-0311)上查看我曾发表的论文
 
 
 # 🔥 News
