@@ -17,42 +17,41 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+我目前就读于华中农业大学，我的专业是植物病理学，但是我的主要研究方向为生物信息学。迄今为止，我已经参与发表SCI论文10余篇<a href='https://scholar.google.com/citations?user=teRf_YAAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>；曾多次获得三好研究生荣誉。我的主要兴趣点为基因组学、比较基因组学、蛋白质设计。你可以在[ORCID](https://orcid.org/0000-0002-8615-0311)上查看我曾发表的论文
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.06*: &nbsp;🎉🎉 恭喜Li Lab的Nature文章正式online.
 
-# 📝 Publications 
+# 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- [Genome editing of a rice CDP-DAG synthase confers multipathogen resistance](https://doi.org/10.1038/s41586-023-06205-2), Gan Sha; Peng Sun; Xiaojing Kong; Xinyu Han; Qiping Sun; Laetitia Fouillen; Juan Zhao; Yun Li; **Lei Yang**; Yin Wang et al. ***Nature***
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- [Doxorubicin inhibits phosphatidylserine decarboxylase and confers broad‐spectrum antifungal activity](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18944), Yaru Zhou; Juan Zhao; **Lei Yang**; Ruiqing Bi; Ziting Qin; Peng Sun; Renjian Li; Mengfei Zhao; Yin Wang; Guang Chen et al. ***New Phytologist***
+  
+- [Identification of propranolol and derivatives that are chemical inhibitors of phosphatidate phosphatase as potential broad-spectrum fungicides](https://doi.org/10.1016/j.xplc.2023.100679),  Juan Zhao; Yu Chen; Zhifen Ding; Yaru Zhou; Ruiqing Bi; Ziting Qin; **Lei Yang**; Peng Sun; Qiping Sun; Guang Chen et al. ***Plant Communications***
+  
+- [Mutation of OsCDS5 confers broad‐spectrum disease resistance in rice](https://doi.org/10.1111/mpp.13430), Qiping Sun; Yongxin Xiao; Le Song; **Lei Yang**; Yin Wang; Wei Yang; Qun Yang; Kabin Xie; Meng Yuan; Guotian Li. ***Molecular Plant Pathology***
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- [The genome of the rice variety LTH provides insight into its universal susceptibility mechanism to worldwide rice blast fungal strains](https://doi.org/10.1016/j.csbj.2022.01.030), **Lei Yang**; Mengfei Zhao; Gan Sha; Qiping Sun; Qiuwen Gong; Qun Yang; Kabin Xie; Meng Yuan; Jenny C. Mortimer; Weibo Xie et al. ***Computational and Structural Biotechnology Journal***
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- [Gap-Free Nuclear and Mitochondrial Genomes of *Ustilaginoidea virens* JS60-2, a Fungal Pathogen Causing Rice False Smut](https://doi.org/10.1094/mpmi-07-22-0158-a), Yin Wang; **Lei Yang**; Qun Yang; Jie Dong; Yufu Wang; Yuhang Duan; Weixiao Yin; Lu Zheng; Wenxian Sun; Jing Fan et al. ***Molecular Plant-Microbe Interactions***
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [High-quality nuclear genome and mitogenome of *Bipolaris sorokiniana* strain LK93, a devastating pathogen causing wheat root rot](https://doi.org/10.1094/mpmi-09-22-0196-a), Wanying Zhang; Qun Yang; **Lei Yang**; Haiyang Li; Wenqing Zhou; Jiaxing Meng; Yanfeng Hu; Limin Wang; Ruijiao Kang; Honglian Li et al. ***Molecular Plant-Microbe Interactions***
+
+- [A High-Quality Genome of *Rhizoctonia solani*, a Devastating Fungal Pathogen with a Wide Host Range Genome Announcement](https://doi.org/10.1094/mpmi-06-22-0126-a), Qun Yang; **Lei Yang**; Yin Wang; Yilyu Chen; Keming Hu; Wei Yang; Shimin Zuo; Jiandi Xu; Zhensheng Kang; Xueqiong Xiao et al. ***Molecular Plant-Microbe Interactions***
+
+- [Genome Sequence of *Magnaporthe oryzae* EA18 Virulent to Multiple Widely Used Rice Varieties](https://doi.org/10.1094/mpmi-01-22-0030-a), Yin Wang; **Lei Yang**; Chang Ma; Yaru Zhou; Mengfei Zhao; Ruiqing Bi; Xiaofei; You-Liang Peng; Jun Yang; Zhensheng Kang et al. ***Molecular Plant-Microbe Interactions***
+
+- [Gap-free nuclear and mitochondrial genomes of *Fusarium verticillioides* strain HN2](https://doi.org/10.1094/phytofr-11-22-0123-a), Wei Yang; Haoyu Zhai; **Lei Yang**; Qun Yang; Le Song; Jianyu Wu; Zhibing Lai; Guotian Li. ***PhytoFrontiers***
+
+- [High-quality complete genome sequence of *Xanthomonas oryzae* pv. *oryzicola (Xoc)* strain HB8](https://doi.org/10.1128/mra.00459-23), Wei Yang; Xingxun Liu; Meng Liu; Fengmei Wei; **Lei Yang**; Meng Yuan; Guotian Li. ***Microbiology Resource Announcements***
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2020.12* 参与植物科学技术学院举办的植物病理学研究生学术交流会，并获得三等奖。
+- *2022.11* 获得2021-2022学年的三好研究生。
+- *2023.11* 获得2022-2023学年的三好研究生。
+  
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.06 - 2024.04 (now)* 华中农业大学，植物病理学. 
+- *2015.09 - 2019.06* 河南农业大学，植物科学与技术. 
