@@ -45,13 +45,13 @@ Gan Sha; Peng Sun; Xiaojing Kong; Xinyu Han; Qiping Sun; Laetitia Fouillen; Juan
 
 - [The genome of the rice variety LTH provides insight into its universal susceptibility mechanism to worldwide rice blast fungal strains](https://doi.org/10.1016/j.csbj.2022.01.030), **Lei Yang**; Mengfei Zhao; Gan Sha; Qiping Sun; Qiuwen Gong; Qun Yang; Kabin Xie; Meng Yuan; Jenny C. Mortimer; Weibo Xie et al. ***Computational and Structural Biotechnology Journal***
 
-- [Gap-Free Nuclear and Mitochondrial Genomes of *Ustilaginoidea virens* JS60-2, a Fungal Pathogen Causing Rice False Smut](https://doi.org/10.1094/mpmi-07-22-0158-a), Yin Wang; **Lei Yang**; Qun Yang; Jie Dong; Yufu Wang; Yuhang Duan; Weixiao Yin; Lu Zheng; Wenxian Sun; Jing Fan et al. ***Molecular Plant-Microbe Interactions***
+- [Gap-Free Nuclear and Mitochondrial Genomes of *Ustilaginoidea virens* JS60-2, a Fungal Pathogen Causing Rice False Smut](https://doi.org/10.1094/mpmi-07-22-0158-a), Yin Wang; **Lei Yang** (co-first); Qun Yang; Jie Dong; Yufu Wang; Yuhang Duan; Weixiao Yin; Lu Zheng; Wenxian Sun; Jing Fan et al. ***Molecular Plant-Microbe Interactions***
 
 - [High-quality nuclear genome and mitogenome of *Bipolaris sorokiniana* strain LK93, a devastating pathogen causing wheat root rot](https://doi.org/10.1094/mpmi-09-22-0196-a), Wanying Zhang; Qun Yang; **Lei Yang**; Haiyang Li; Wenqing Zhou; Jiaxing Meng; Yanfeng Hu; Limin Wang; Ruijiao Kang; Honglian Li et al. ***Molecular Plant-Microbe Interactions***
 
-- [A High-Quality Genome of *Rhizoctonia solani*, a Devastating Fungal Pathogen with a Wide Host Range Genome Announcement](https://doi.org/10.1094/mpmi-06-22-0126-a), Qun Yang; **Lei Yang**; Yin Wang; Yilyu Chen; Keming Hu; Wei Yang; Shimin Zuo; Jiandi Xu; Zhensheng Kang; Xueqiong Xiao et al. ***Molecular Plant-Microbe Interactions***
+- [A High-Quality Genome of *Rhizoctonia solani*, a Devastating Fungal Pathogen with a Wide Host Range Genome Announcement](https://doi.org/10.1094/mpmi-06-22-0126-a), Qun Yang; **Lei Yang** (co-first); Yin Wang; Yilyu Chen; Keming Hu; Wei Yang; Shimin Zuo; Jiandi Xu; Zhensheng Kang; Xueqiong Xiao et al. ***Molecular Plant-Microbe Interactions***
 
-- [Genome Sequence of *Magnaporthe oryzae* EA18 Virulent to Multiple Widely Used Rice Varieties](https://doi.org/10.1094/mpmi-01-22-0030-a), Yin Wang; **Lei Yang**; Chang Ma; Yaru Zhou; Mengfei Zhao; Ruiqing Bi; Xiaofei; You-Liang Peng; Jun Yang; Zhensheng Kang et al. ***Molecular Plant-Microbe Interactions***
+- [Genome Sequence of *Magnaporthe oryzae* EA18 Virulent to Multiple Widely Used Rice Varieties](https://doi.org/10.1094/mpmi-01-22-0030-a), Yin Wang; **Lei Yang** (co-first); Chang Ma; Yaru Zhou; Mengfei Zhao; Ruiqing Bi; Xiaofei; You-Liang Peng; Jun Yang; Zhensheng Kang et al. ***Molecular Plant-Microbe Interactions***
 
 - [Gap-free nuclear and mitochondrial genomes of *Fusarium verticillioides* strain HN2](https://doi.org/10.1094/phytofr-11-22-0123-a), Wei Yang; Haoyu Zhai; **Lei Yang**; Qun Yang; Le Song; Jianyu Wu; Zhibing Lai; Guotian Li. ***PhytoFrontiers***
 
