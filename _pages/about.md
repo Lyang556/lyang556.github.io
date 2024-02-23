@@ -25,7 +25,17 @@ redirect_from:
 
 # 📝 Publications
 
-- [Genome editing of a rice CDP-DAG synthase confers multipathogen resistance](https://doi.org/10.1038/s41586-023-06205-2), Gan Sha; Peng Sun; Xiaojing Kong; Xinyu Han; Qiping Sun; Laetitia Fouillen; Juan Zhao; Yun Li; **Lei Yang**; Yin Wang et al. ***Nature***
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature 2023</div><img src='papers/nature.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Genome editing of a rice CDP-DAG synthase confers multipathogen resistance](https://doi.org/10.1038/s41586-023-06205-2)
+
+Gan Sha; Peng Sun; Xiaojing Kong; Xinyu Han; Qiping Sun; Laetitia Fouillen; Juan Zhao; Yun Li; **Lei Yang**; Yin Wang et al.
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=teRf_YAAAAAJ&citation_for_view=teRf_YAAAAAJ:IjCSPb-OGe4C) <strong><span class='show_paper_citations' data='teRf_YAAAAAJ:IjCSPb-OGe4C'></span></strong>
+- This is the first ***Nature*** paper published in Li lab!
+</div>
+</div>
 
 - [Doxorubicin inhibits phosphatidylserine decarboxylase and confers broad‐spectrum antifungal activity](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18944), Yaru Zhou; Juan Zhao; **Lei Yang**; Ruiqing Bi; Ziting Qin; Peng Sun; Renjian Li; Mengfei Zhao; Yin Wang; Guang Chen et al. ***New Phytologist***
   
