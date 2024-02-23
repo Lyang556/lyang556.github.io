@@ -25,7 +25,7 @@ redirect_from:
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature 2023</div><img src='papers/nature.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='papers/nature.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Genome editing of a rice CDP-DAG synthase confers multipathogen resistance](https://doi.org/10.1038/s41586-023-06205-2)
