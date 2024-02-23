@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我目前就读于华中农业大学，我的专业是植物病理学，但是我的主要研究方向为生物信息学。迄今为止，我已经参与发表SCI论文10余篇。总 <a href='https://scholar.google.com/citations?user=teRf_YAAAAAJ&hl'>谷歌学术引用为<strong><span id='total_cit'>260000+</span></strong></a> (您也可以使用 google scholar badge<a href='https://scholar.google.com/citations?user=teRf_YAAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)进行查看；曾多次获得三好研究生荣誉。我的主要兴趣点为基因组学、比较基因组学、蛋白质设计。您也可以在[ORCID](https://orcid.org/0000-0002-8615-0311)上查看我曾发表的论文
+I am currently studying at Huazhong Agricultural University, my major is plant pathology, but my main research interest is bioinformatics. I have published more than 10 papers with total <a href='https://scholar.google.com/citations?user=teRf_YAAAAAJ&hl'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=teRf_YAAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). My main interests are genomics, comparative genomics, and protein design. You can also view my published papers at [ORCID](https://orcid.org/0000-0002-8615-0311).
 
 
 # 🔥 News
-- *2023.06*: &nbsp;🎉🎉 恭喜Li Lab的Nature文章正式online.
+- *2023.06*: &nbsp;🎉🎉 Congratulations to Li Lab for the *Nature* article online.
 
 # 📝 Publications
 
@@ -58,10 +58,9 @@ Gan Sha; Peng Sun; Xiaojing Kong; Xinyu Han; Qiping Sun; Laetitia Fouillen; Juan
 - [High-quality complete genome sequence of *Xanthomonas oryzae* pv. *oryzicola (Xoc)* strain HB8](https://doi.org/10.1128/mra.00459-23), Wei Yang; Xingxun Liu; Meng Liu; Fengmei Wei; **Lei Yang**; Meng Yuan; Guotian Li. ***Microbiology Resource Announcements***
 
 # 🎖 Honors and Awards
-- *2020.12* 参与植物科学技术学院举办的植物病理学研究生学术交流会，并获得三等奖。
-- *2022.11* 获得2021-2022学年的三好研究生。
-- *2023.11* 获得2022-2023学年的三好研究生。
+- *2022.11* 2021-2022; Merit Student
+- *2023.11* 2022-2023; Merit Student
   
 # 📖 Educations
-- *2019.06 - 2024.04 (now)* 华中农业大学，植物病理学. 
-- *2015.09 - 2019.06* 河南农业大学，植物科学与技术. 
+- *2019.06 - 2024.04 (now)* Huazhong Agricultural University, Plant Pathology.
+- *2015.09 - 2019.06* Henan Agricultural University, Plant Science and Technology. 
