@@ -37,6 +37,7 @@ Gan Sha; Peng Sun; Xiaojing Kong; Xinyu Han; Qiping Sun; Laetitia Fouillen; Juan
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='papers/CSBJ.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [The genome of the rice variety LTH provides insight into its universal susceptibility mechanism to worldwide rice blast fungal strains](https://doi.org/10.1016/j.csbj.2022.01.030)
@@ -45,6 +46,7 @@ Gan Sha; Peng Sun; Xiaojing Kong; Xinyu Han; Qiping Sun; Laetitia Fouillen; Juan
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=teRf_YAAAAAJ&citation_for_view=teRf_YAAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='teRf_YAAAAAJ:u5HHmVD_uO8C'></span></strong>
 - This is My first paper published in Li lab!
+</div>
 </div>
 
 - [Doxorubicin inhibits phosphatidylserine decarboxylase and confers broad‐spectrum antifungal activity](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18944), Yaru Zhou; Juan Zhao; **Lei Yang**; Ruiqing Bi; Ziting Qin; Peng Sun; Renjian Li; Mengfei Zhao; Yin Wang; Guang Chen et al. ***New Phytologist***
