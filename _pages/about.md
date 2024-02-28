@@ -37,13 +37,21 @@ Gan Sha; Peng Sun; Xiaojing Kong; Xinyu Han; Qiping Sun; Laetitia Fouillen; Juan
 </div>
 </div>
 
+<div class='paper-box-text' markdown="1">
+  
+[The genome of the rice variety LTH provides insight into its universal susceptibility mechanism to worldwide rice blast fungal strains](https://doi.org/10.1016/j.csbj.2022.01.030)
+
+**Lei Yang**; Mengfei Zhao; Gan Sha; Qiping Sun; Qiuwen Gong; Qun Yang; Kabin Xie; Meng Yuan; Jenny C. Mortimer; Weibo Xie et al. ***Computational and Structural Biotechnology Journal***
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=teRf_YAAAAAJ&citation_for_view=teRf_YAAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='teRf_YAAAAAJ:u5HHmVD_uO8C'></span></strong>
+- This is My first paper published in Li lab!
+</div>
+
 - [Doxorubicin inhibits phosphatidylserine decarboxylase and confers broad‐spectrum antifungal activity](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18944), Yaru Zhou; Juan Zhao; **Lei Yang**; Ruiqing Bi; Ziting Qin; Peng Sun; Renjian Li; Mengfei Zhao; Yin Wang; Guang Chen et al. ***New Phytologist***
   
 - [Identification of propranolol and derivatives that are chemical inhibitors of phosphatidate phosphatase as potential broad-spectrum fungicides](https://doi.org/10.1016/j.xplc.2023.100679),  Juan Zhao; Yu Chen; Zhifen Ding; Yaru Zhou; Ruiqing Bi; Ziting Qin; **Lei Yang**; Peng Sun; Qiping Sun; Guang Chen et al. ***Plant Communications***
   
 - [Mutation of OsCDS5 confers broad‐spectrum disease resistance in rice](https://doi.org/10.1111/mpp.13430), Qiping Sun; Yongxin Xiao; Le Song; **Lei Yang**; Yin Wang; Wei Yang; Qun Yang; Kabin Xie; Meng Yuan; Guotian Li. ***Molecular Plant Pathology***
-
-- [The genome of the rice variety LTH provides insight into its universal susceptibility mechanism to worldwide rice blast fungal strains](https://doi.org/10.1016/j.csbj.2022.01.030), **Lei Yang**; Mengfei Zhao; Gan Sha; Qiping Sun; Qiuwen Gong; Qun Yang; Kabin Xie; Meng Yuan; Jenny C. Mortimer; Weibo Xie et al. ***Computational and Structural Biotechnology Journal***
 
 - [Gap-Free Nuclear and Mitochondrial Genomes of *Ustilaginoidea virens* JS60-2, a Fungal Pathogen Causing Rice False Smut](https://doi.org/10.1094/mpmi-07-22-0158-a), Yin Wang; **Lei Yang** (co-first); Qun Yang; Jie Dong; Yufu Wang; Yuhang Duan; Weixiao Yin; Lu Zheng; Wenxian Sun; Jing Fan et al. ***Molecular Plant-Microbe Interactions***
 
