@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently studying at Huazhong Agricultural University, my major is plant pathology, but my main research interest is bioinformatics. I have published more than 10 papers with total <a href='https://scholar.google.com/citations?user=teRf_YAAAAAJ&hl'>google scholar citations <strong><span id='total_cit'>50+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=teRf_YAAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). My main interests are genomics, comparative genomics, and protein design. You can also view my published papers at [ORCID](https://orcid.org/0000-0002-8615-0311).
+I am currently studying at Huazhong Agricultural University, my major is plant pathology, but my main research interest is bioinformatics. I have published more than 10 papers with total google scholar citations <a href='https://scholar.google.com/citations?user=teRf_YAAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. My main interests are genomics, comparative genomics, and protein design. You can also view my published papers at [ORCID](https://orcid.org/0000-0002-8615-0311).
 
 
 # 🔥 News
