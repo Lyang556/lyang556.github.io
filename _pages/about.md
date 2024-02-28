@@ -25,7 +25,7 @@ I am currently studying at Huazhong Agricultural University, my major is plant p
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='papers/nature.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="citations"></div><img src='papers/nature.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Genome editing of a rice CDP-DAG synthase confers multipathogen resistance](https://doi.org/10.1038/s41586-023-06205-2)
