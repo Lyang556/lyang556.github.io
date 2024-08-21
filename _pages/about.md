@@ -51,6 +51,12 @@ Gan Sha; Peng Sun; Xiaojing Kong; Xinyu Han; Qiping Sun; Laetitia Fouillen; Juan
 
 - [Genomic and transcriptomic analyses of the elite rice variety Huizhan provide insight into disease resistance and heat tolerance](https://www.sciencedirect.com/science/article/pii/S0888754324001368), Wei Yang; Zhou Yang; **Lei Yang** **(co-first)** et al. ***Genomics***
 
+- [Gap-Free Nuclear and Mitochondrial Genomes of *Ustilaginoidea virens* JS60-2, a Fungal Pathogen Causing Rice False Smut](https://doi.org/10.1094/mpmi-07-22-0158-a), Yin Wang; **Lei Yang** **(co-first)** et al. ***Molecular Plant-Microbe Interactions***
+
+- [A High-Quality Genome of *Rhizoctonia solani*, a Devastating Fungal Pathogen with a Wide Host Range Genome Announcement](https://doi.org/10.1094/mpmi-06-22-0126-a), Qun Yang; **Lei Yang** **(co-first)** et al. ***Molecular Plant-Microbe Interactions***
+
+- [Genome Sequence of *Magnaporthe oryzae* EA18 Virulent to Multiple Widely Used Rice Varieties](https://doi.org/10.1094/mpmi-01-22-0030-a), Yin Wang; **Lei Yang** **(co-first)** et al. ***Molecular Plant-Microbe Interactions***
+
 - [Doxorubicin inhibits phosphatidylserine decarboxylase and confers broad‐spectrum antifungal activity](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18944), Yaru Zhou; Juan Zhao; **Lei Yang** et al. ***New Phytologist***
 
 - [Sirt5‐mediated lysine desuccinylation regulates oxidative stress adaptation in Magnaporthe oryzae during host intracellular infection](https://doi.org/10.1111/nph.19683), Zhiyong Ren; Xiang Dong; Lun Guan; **Lei Yang** et al. ***New Phytologist***
@@ -59,13 +65,7 @@ Gan Sha; Peng Sun; Xiaojing Kong; Xinyu Han; Qiping Sun; Laetitia Fouillen; Juan
   
 - [Mutation of OsCDS5 confers broad‐spectrum disease resistance in rice](https://doi.org/10.1111/mpp.13430), Qiping Sun; Yongxin Xiao; Le Song; **Lei Yang** et al. ***Molecular Plant Pathology***
 
-- [Gap-Free Nuclear and Mitochondrial Genomes of *Ustilaginoidea virens* JS60-2, a Fungal Pathogen Causing Rice False Smut](https://doi.org/10.1094/mpmi-07-22-0158-a), Yin Wang; **Lei Yang** **(co-first)** et al. ***Molecular Plant-Microbe Interactions***
-
 - [High-quality nuclear genome and mitogenome of *Bipolaris sorokiniana* strain LK93, a devastating pathogen causing wheat root rot](https://doi.org/10.1094/mpmi-09-22-0196-a), Wanying Zhang; Qun Yang; **Lei Yang** et al. ***Molecular Plant-Microbe Interactions***
-
-- [A High-Quality Genome of *Rhizoctonia solani*, a Devastating Fungal Pathogen with a Wide Host Range Genome Announcement](https://doi.org/10.1094/mpmi-06-22-0126-a), Qun Yang; **Lei Yang** **(co-first)** et al. ***Molecular Plant-Microbe Interactions***
-
-- [Genome Sequence of *Magnaporthe oryzae* EA18 Virulent to Multiple Widely Used Rice Varieties](https://doi.org/10.1094/mpmi-01-22-0030-a), Yin Wang; **Lei Yang** **(co-first)** et al. ***Molecular Plant-Microbe Interactions***
 
 - [Gap-free nuclear and mitochondrial genomes of *Fusarium verticillioides* strain HN2](https://doi.org/10.1094/phytofr-11-22-0123-a), Wei Yang; Haoyu Zhai; **Lei Yang** et al. ***PhytoFrontiers***
 
