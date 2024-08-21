@@ -59,7 +59,7 @@ Gan Sha; Peng Sun; Xiaojing Kong; Xinyu Han; Qiping Sun; Laetitia Fouillen; Juan
 
 - [Doxorubicin inhibits phosphatidylserine decarboxylase and confers broad‐spectrum antifungal activity](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18944), Yaru Zhou; Juan Zhao; **Lei Yang** et al. ***New Phytologist***
 
-- [Sirt5‐mediated lysine desuccinylation regulates oxidative stress adaptation in Magnaporthe oryzae during host intracellular infection](https://doi.org/10.1111/nph.19683), Zhiyong Ren; Xiang Dong; Lun Guan; **Lei Yang** et al. ***New Phytologist***
+- [Sirt5‐mediated lysine desuccinylation regulates oxidative stress adaptation in ***Magnaporthe oryzae*** during host intracellular infection](https://doi.org/10.1111/nph.19683), Zhiyong Ren; Xiang Dong; Lun Guan; **Lei Yang** et al. ***New Phytologist***
   
 - [Identification of propranolol and derivatives that are chemical inhibitors of phosphatidate phosphatase as potential broad-spectrum fungicides](https://doi.org/10.1016/j.xplc.2023.100679), Juan Zhao; Yu Chen; Zhifen Ding; Yaru Zhou; Ruiqing Bi; Ziting Qin; **Lei Yang** et al. ***Plant Communications***
   
