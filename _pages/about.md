@@ -32,7 +32,7 @@ I am currently studying at Huazhong Agricultural University, my major is plant p
 
 Guotian Li; Linna An;  Wanneng Yang; **Lei Yang** **(co-first)**; Tong Wei et al.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=teRf_YAAAAAJ&citation_for_view=teRf_YAAAAAJ:eQOLeE2rZwMC) <strong><span class='show_paper_citations' data='teRf_YAAAAAJ:eQOLeE2rZwMC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=teRf_YAAAAAJ&citation_for_view=teRf_YAAAAAJ:eQOLeE2rZwMC) <strong><span class='show_paper_citations' data='teRf_YAAAAAJ:eQOLeE2rZwMC'></span></strong>
 - This is My first ***Nature*** paper published in Li lab!
 </div>
 </div>
