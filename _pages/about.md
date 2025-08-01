@@ -21,9 +21,21 @@ I am currently studying at Huazhong Agricultural University, my major is plant p
 
 
 # 🔥 News
-- *2023.06*: &nbsp;🎉🎉 Congratulations to Li Lab for the *Nature* article online.
+- *2025.07*: &nbsp;🎉🎉 Congratulations to Li Lab for the *Nature* review online.
 
 # 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='papers/nature2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Integrated biotechnological and AI innovations for crop improvement](https://www.nature.com/articles/s41586-025-09122-8)
+
+Guotian Li; Linna An;  Wanneng Yang; **Lei Yang** **(co-first)**; Tong Wei et al.
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=teRf_YAAAAAJ&citation_for_view=teRf_YAAAAAJ:IjCSPb-OGe4C) <strong><span class='show_paper_citations' data='teRf_YAAAAAJ:IjCSPb-OGe4C'></span></strong>
+- This is My first ***Nature*** paper published in Li lab!
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='papers/nature.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
