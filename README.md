@@ -1,10 +1,6 @@
-
 <h1 align="center">
 AcadHomepage
 </h1>
-Some examples:
-- [Demo Page](https://rayeren.github.io/acad-homepage.github.io/)
-- [Personal Homepage of the author](https://rayeren.github.io/)
 
 
 # Acknowledges
