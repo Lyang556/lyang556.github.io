@@ -87,5 +87,5 @@ Gan Sha; Peng Sun; Xiaojing Kong; Xinyu Han; Qiping Sun; Laetitia Fouillen; Juan
 - *2023.11* 2022-2023; Merit Student
   
 # 📖 Educations
-- *2019.06 - 2024.04 (now)* Huazhong Agricultural University, Plant Pathology.
+- *2019.06 - 2025.06* Huazhong Agricultural University, Plant Pathology.
 - *2015.09 - 2019.06* Henan Agricultural University, Plant Science and Technology. 
