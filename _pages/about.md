@@ -60,6 +60,8 @@ Gan Sha; Peng Sun; Xiaojing Kong; Xinyu Han; Qiping Sun; Laetitia Fouillen; Juan
 </div>
 </div>
 
+- [Rational design of promoter editing confers multipathogen resistance in rice](https://link.springer.com/article/10.1186/s13059-025-03841-x), Xinyu Han; **Lei Yang** **(co-first)** et al. ***Genome Biology***
+
 - [Genomic and transcriptomic analyses of the elite rice variety Huizhan provide insight into disease resistance and heat tolerance](https://www.sciencedirect.com/science/article/pii/S0888754324001368), Wei Yang; Zhou Yang; **Lei Yang** **(co-first)** et al. ***Genomics***
 
 - [Gap-Free Nuclear and Mitochondrial Genomes of *Ustilaginoidea virens* JS60-2, a Fungal Pathogen Causing Rice False Smut](https://doi.org/10.1094/mpmi-07-22-0158-a), Yin Wang; **Lei Yang** **(co-first)** et al. ***Molecular Plant-Microbe Interactions***
