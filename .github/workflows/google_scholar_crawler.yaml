@@ -2,38 +2,85 @@
 name: Get Citation Data
 
 on:
- page_build:
- workflow_dispatch:
- schedule:
-  - cron:  '0 8 * * *'
+  page_build:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 8 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: google-scholar-crawler
+  cancel-in-progress: false
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+
     steps:
-    - uses: actions/checkout@v2
-    - name: Install Reqs
-      run: |
-        # brew install python3
-        # brew install git
-        sudo apt-get install python3-setuptools
-    - name: Run
-      run: |
-        cd ./google_scholar_crawler
-        # python3 -m venv ./tempenv
-        # source ./tempenv/bin/activate
-        python3 -m pip install -r requirements.txt
-        python3 -m pip install pip-system-certs
-        python3 -m pip install --upgrade certifi
-        export SSL_CERT_FILE=$(python3 -m certifi)
-        python3 main.py
-        cd ./results
-        git init
-        git config --local user.name "${GITHUB_ACTOR}"
-        git config --local user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-        export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
-        git add *.json
-        git commit -m "Updated Citation Data"
-        git push "${remote_repo}" HEAD:google-scholar-stats --force
-      env: 
-        GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+          cache-dependency-path: google_scholar_crawler/requirements.txt
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -r google_scholar_crawler/requirements.txt
+          python -m pip install --upgrade certifi
+          python -m pip check
+
+      - name: Fetch Google Scholar data
+        working-directory: google_scholar_crawler
+        env:
+          GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+          PYTHONUNBUFFERED: "1"
+        shell: bash
+        run: |
+          for attempt in 1 2; do
+            echo "Scholar fetch attempt ${attempt}/2"
+
+            if timeout 360s python -u main.py --mode auto; then
+              echo "Scholar fetch succeeded"
+              exit 0
+            fi
+
+            echo "::warning::Fetch attempt ${attempt} failed"
+
+            if [ "$attempt" -lt 2 ]; then
+              sleep 60
+            fi
+          done
+
+          echo "::error::All fetch attempts failed"
+          exit 1
+
+      - name: Publish citation data
+        working-directory: google_scholar_crawler/results
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        shell: bash
+        run: |
+          git init
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add gs_data.json gs_data_shieldsio.json
+
+          if git diff --cached --quiet; then
+            echo "No changes to publish"
+            exit 0
+          fi
+
+          git commit -m "Updated Citation Data"
+
+          git -c http.extraheader="AUTHORIZATION: basic $(printf 'x-access-token:%s' "$GH_TOKEN" | base64 -w0)" \
+            push "https://github.com/${GITHUB_REPOSITORY}.git" \
+            HEAD:google-scholar-stats --force
